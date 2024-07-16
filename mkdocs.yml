@@ -1,0 +1,17 @@
+site_name: "Ordinary Differential Equations"
+
+theme:
+  name: "material"
+
+use_directory_urls: false
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.arithmatex
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - extra.js
+
