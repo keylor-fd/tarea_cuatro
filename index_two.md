@@ -8,6 +8,6 @@ En general, los métodos numéricos descritos en este artículo se basan en la f
 
 $$ \frac{dy}{dx} = f(x,y) $$
 
-Para aplicar estos métodos, la función $f$ debe depender de las variables $x$ e $y$, es decir, $f = f(x,y)$. Además, se necesita conocer el valor de la variable dependiente en un punto inicial específico $x = x_{0}$, denotado como $ y(x=x_{0}) = y_{0} $.
+Para aplicar estos métodos, la función $f$ debe depender de las variables $x$ e $y$, es decir, $f = f(x,y)$. Además, se necesita conocer el valor de la variable dependiente en un punto inicial específico $x = x_{0}$, denotado como $y(x=x_{0}) = y_{0}$.
 
 
